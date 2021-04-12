@@ -1,6 +1,8 @@
 # Node Hello World.. with pm2 on an AWS ec2 instance.
 Node.js with pm2 (a process manager to help you manage your app online) app for an ec2 environment.
 
+The following guide can help you get started building a AWS Node virtual machine with the powerful process management system pm2.
+
 ## Guide from ssh connection to deployed app.
 
 This guide will take you step by step on how to deploy a node server with the process manager pm2 on an AWS ec2 virtual machine.
